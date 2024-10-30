@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://digital-hit-counter-prototype-eight.vercel.app/api/counter/muktharshaik?cache=bust" alt="counter" />
+
 <!--
 **muktharshaik/muktharshaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
